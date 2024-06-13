@@ -1,0 +1,17 @@
+**/*.pyc
+**/*.DS_Store
+__pycache__/*
+output/**/*
+data/**/*
+StudentAnnotationProject/**/*
+code/dataset-creation/**/*
+code/dataset-creation/1a-inbetween_processing.py
+code/dataset-creation/3a-wiktionarylabel_encoding.py
+code/dataset-creation/3b-filter_split_control.py
+code/dataset-creation/5a-analyze_data.py
+code/paper_experiments.py
+code/llama_playground.py
+code/llama.py
+code/generate_t5.py
+code/evaluate_generated_defs.py
+code/print_results.py
